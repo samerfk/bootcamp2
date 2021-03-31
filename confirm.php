@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h3>Confirm sign up --</h3>
+    <h3>Confirm sign up -sss-</h3>
     <?php
     //include the database file
 
